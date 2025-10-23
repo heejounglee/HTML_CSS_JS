@@ -1,0 +1,20 @@
+h1{
+    color: gold;
+    background-color: red;
+}
+
+.g1{
+    border: 1px solid red;
+    border-style: dotted;
+    color:blue;
+    font-size: 20px;
+    text-decoration: overline;
+}
+
+.g2{
+    color:white;
+    background-color: black;
+}
+
+div.hidden { visibility: hidden; }
+div.none { display: none; }
